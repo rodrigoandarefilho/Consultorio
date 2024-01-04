@@ -10,6 +10,6 @@ public class PacienteController {
 
     @GetMapping
     public String buscarTodosPacientes() {
-        return "Deu boa conexão com Postman !!";
+        return " testando commit Git com IntelliJ!!";
     }
 }
